@@ -1,0 +1,21 @@
+.bxx {
+    background-color: aqua;
+    float: left;
+    margin-right: 1rem;
+    position: relative;
+    top: 0;
+}
+
+body {
+    height: 200rem;
+    position: relative;
+}
+
+.bxx:hover {
+    color: blue;
+}
+
+.bxx:focus {
+    background-color: aqua;
+    flex-direction: row;
+}
